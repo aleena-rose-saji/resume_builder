@@ -1,0 +1,15 @@
+#part1
+{ background-image: url('https://media.licdn.com/dms/image/v2/C4E12AQGZ0Er5HvX7LQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1560779693461?e=2147483647&v=beta&t=Yh-gDNyHq8MTZzOTxiNiT-ekiJEJ979rng9kDcU3cQk');
+height: 550px;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}   
+#part2
+{ background-image: url('https://9253440.fs1.hubspotusercontent-na1.net/hubfs/9253440/Young-team-working-together-in-a-meeting-room.jpg');
+height: 550px;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}   
+
